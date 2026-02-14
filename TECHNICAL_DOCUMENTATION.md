@@ -25,7 +25,7 @@ The HVAC Control System is designed using a modular architecture with clear sepa
 
 ### System Diagram
 
-image/
+<img width="400" height="900" alt="1771069615201" src="https://github.com/user-attachments/assets/c38436c4-b6b6-4021-b2b7-a4fde9c53b47" />
 
 ### Component Hierarchy
 
