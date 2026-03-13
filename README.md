@@ -250,16 +250,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Industrial automation best practices
 
 ---
-
-## Version History
-
-### Version 1.0.0 (Current)
-
-- Multi-zone temperature and humidity control
-- Energy monitoring
-- Complete HMI with multiple screens
-- Four pre-set comfort modes
-- Manual setpoint adjustment
-- Real-time power monitoring
-
----
